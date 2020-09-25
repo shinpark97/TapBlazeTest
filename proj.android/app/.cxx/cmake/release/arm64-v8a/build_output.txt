@@ -1,0 +1,13 @@
+using toolchain file:C:\Users\Shin\AppData\Local\Android\Sdk\ndk\21.3.6528147\build\cmake\android.toolchain.cmake
+PROJECT_NAME:TapBlazeCode
+PROJECT_SOURCE_DIR:C:/Users/Shin/Desktop/TapBlazeCode
+COCOS2DX_ROOT_PATH:C:/Users/Shin/Desktop/TapBlazeCode/cocos2d
+CMAKE_MODULE_PATH:C:/Users/Shin/Desktop/TapBlazeCode/cocos2d/cmake/Modules/
+PROJECT_BINARY_DIR:C:/Users/Shin/Desktop/TapBlazeCode/proj.android/app/.cxx/cmake/release/arm64-v8a
+ENGINE_BINARY_PATH:C:/Users/Shin/Desktop/TapBlazeCode/proj.android/app/.cxx/cmake/release/arm64-v8a/engine
+PYTHON_PATH:C:/Python27/python.exe
+COCOS_COMMAND_PATH:C:/COCOS/cocos2d-x-4.0/cocos2d-x-4.0/tools/cocos2d-console/bin/cocos
+HOST_SYSTEM:Windows
+CMAKE_GENERATOR: Ninja
+COCOS2DX_LUAJIT_ROOT:C:/COCOS/cocos2d-x-4.0/cocos2d-x-4.0/tools/cocos2d-console/bin/../plugins/plugin_luacompile/bin
+Configuring done
